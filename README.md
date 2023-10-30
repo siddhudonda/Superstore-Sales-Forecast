@@ -1,7 +1,7 @@
 # Superstore-Sales-Forecast
 
 Superstore Sales Data Analysis
-Overview
+Overview:
 This repository contains the analysis of Superstore sales data aimed at uncovering insights, predicting sales trends, and optimizing business strategies. Leveraging the power of Power BI, the project delves into customer segmentation, payment preferences, regional sales patterns, and time series forecasting. The analysis offers actionable intelligence for the Superstore to enhance customer satisfaction, streamline operations, and boost revenue.
 
 Project Highlights
